@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z8OaO3ousw4Bi4L+o2fV8FlfPQ7DiPIFUOiunzpAeZZ74DNxnf8O/9bg5H/So63i4gbkHgRwbQTXR78ETaaWZQ==",
+  "dgSpecHash": "pSB6MjdKOCrStvj0MWgqgnL5MZxo0kmOSNAVa02xbkMYYfDI0vyp6YDgaxDULzQj/EdD/1vHTfOHvXVEVPbCtw==",
   "success": true,
-  "projectFilePath": "C:\\Development\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj",
+  "projectFilePath": "G:\\My Drive\\Code\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bertr\\.nuget\\packages\\microsoft.mixedreality.webrtc.uwp\\2.0.2\\microsoft.mixedreality.webrtc.uwp.2.0.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.11-rel-30601-02\\microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",

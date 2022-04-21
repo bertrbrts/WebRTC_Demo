@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj": {}
+    "G:\\My Drive\\Code\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj": {}
   },
   "projects": {
-    "C:\\Development\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj": {
+    "G:\\My Drive\\Code\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj",
+        "projectUniqueName": "G:\\My Drive\\Code\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj",
         "projectName": "WebRTC_Demo",
-        "projectPath": "C:\\Development\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj",
+        "projectPath": "G:\\My Drive\\Code\\WebRTC_Demo\\WebRTC_Demo\\WebRTC_Demo.csproj",
         "packagesPath": "C:\\Users\\bertr\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\WebRTC_Demo\\WebRTC_Demo\\obj\\",
+        "outputPath": "G:\\My Drive\\Code\\WebRTC_Demo\\WebRTC_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

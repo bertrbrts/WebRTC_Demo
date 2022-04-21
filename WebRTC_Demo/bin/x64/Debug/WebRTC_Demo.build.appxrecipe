@@ -10,22 +10,22 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>26bc593c-b3f7-4004-b8f0-b1298b77f999</PackageIdentityName>
     <PackageIdentityPublisher>CN=jbroberts</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.exe">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.exe">
       <PackagePath>entrypoint\WebRTC_Demo.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bertr\.nuget\packages\microsoft.mixedreality.webrtc.uwp\2.0.2\runtimes\win10-x64\native\mrwebrtc.dll">
@@ -43,52 +43,52 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.xr.xml">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.xr.xml">
       <PackagePath>WebRTC_Demo.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\WebRTC_Demo.exe">
+    <AppxPackagedFile Include="G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\WebRTC_Demo.exe">
       <PackagePath>WebRTC_Demo.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
