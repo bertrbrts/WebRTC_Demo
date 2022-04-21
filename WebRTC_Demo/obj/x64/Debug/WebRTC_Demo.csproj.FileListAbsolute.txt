@@ -1,0 +1,144 @@
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\App.xbf
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\MainPage.xbf
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.xr.xml
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.exe
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.pdb
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\resources.pri
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\AppxManifest.xml
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\WebRTC_Demo.exe
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.build.appxrecipe
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\mrwebrtc.dll
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Microsoft.MixedReality.WebRTC.dll
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\System.Runtime.dll
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.AssemblyReference.cache
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.g.i.cs
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.g.cs
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.g.cs
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.xaml
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.xaml
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.xbf
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.xbf
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.CoreCompileInputs.cache
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.CopyComplete
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.exe
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.pdb
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\priconfig.xml
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\resources.resfiles
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\pri.resfiles
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\qualifiers.txt
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\jbroberts\source\repos\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Newtonsoft.Json.dll
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\App.xbf
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\MainPage.xbf
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.xr.xml
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.exe
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.pdb
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\resources.pri
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\AppxManifest.xml
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\AppxManifest.xml
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\WebRTC_Demo.exe
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.build.appxrecipe
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\mrwebrtc.dll
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Microsoft.MixedReality.WebRTC.dll
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Newtonsoft.Json.dll
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\System.Runtime.dll
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.AssemblyReference.cache
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.g.i.cs
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.g.cs
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.g.i.cs
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.g.cs
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\XamlTypeInfo.g.cs
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.xaml
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.xaml
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.xbf
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.xbf
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\XamlSaveStateFile.xml
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.CoreCompileInputs.cache
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.CopyComplete
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.exe
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.pdb
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\ResourceHandlingTask.state
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\priconfig.xml
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\priconfig.xml.intermediate
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\unfiltered.layout.resfiles
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\filtered.layout.resfiles
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\filtered.layout.resfiles.intermediate
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\excluded.layout.resfiles
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\excluded.layout.resfiles.intermediate
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\resources.resfiles
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\resources.resfiles.intermediate
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\pri.resfiles
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\pri.resfiles.intermediate
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\qualifiers.txt
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\qualifiers.txt.intermediate
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\ProjectArchitectures.txt
+G:\My Drive\Code\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\App.xbf
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\MainPage.xbf
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.xr.xml
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.exe
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.pdb
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\resources.pri
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\AppxManifest.xml
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\AppxManifest.xml
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Core\WebRTC_Demo.exe
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\WebRTC_Demo.build.appxrecipe
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\mrwebrtc.dll
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Microsoft.MixedReality.WebRTC.dll
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\System.Runtime.dll
+C:\Development\WebRTC_Demo\WebRTC_Demo\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.AssemblyReference.cache
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.g.i.cs
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.g.cs
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.g.i.cs
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.g.cs
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.xaml
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.xaml
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\App.xbf
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MainPage.xbf
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.CoreCompileInputs.cache
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.csproj.CopyComplete
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.exe
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\WebRTC_Demo.pdb
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\ResourceHandlingTask.state
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\priconfig.xml
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\priconfig.xml.intermediate
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\filtered.layout.resfiles
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\excluded.layout.resfiles
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\resources.resfiles
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\resources.resfiles.intermediate
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\pri.resfiles
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\pri.resfiles.intermediate
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\qualifiers.txt
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\ProjectArchitectures.txt
+C:\Development\WebRTC_Demo\WebRTC_Demo\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
